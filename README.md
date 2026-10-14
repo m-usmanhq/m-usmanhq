@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I’m Muhammad Usman
 
-<!--
-**Usman4345/Usman4345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Full Stack Developer · Technical Lead
 
-Here are some ideas to get you started:
+I work on business applications, backend systems, APIs, databases, and cloud integrations. My background spans 8+ years of hands-on software development, team leadership, and development management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m especially comfortable maintaining and modernizing established applications—understanding existing business logic, troubleshooting problems, and delivering focused improvements.
+
+**Core expertise**
+
+- C#, ASP.NET Core / MVC, .NET Framework, Web Forms, VB.NET, and Classic ASP
+- SQL Server, stored procedures, database design, and REST APIs
+- Node.js, TypeScript, and Angular
+- AWS Lambda, API Gateway, DynamoDB, Azure Functions, and Azure App Service
+- Playwright and TypeScript for API and end-to-end verification
+
+I also have experience with React and Vue.js.
+
+**Areas I can help with**
+
+- Existing application maintenance and legacy modernization
+- Full stack business applications and internal tools
+- API integrations and cloud-backed services
+- Technical planning, code review, and team delivery
+
+**Connect**
+
+[LinkedIn](https://www.linkedin.com/in/muhammad-usman-3490a4119/) · [Upwork](https://www.upwork.com/freelancers/~019da0731e38b973fa)
